@@ -4,6 +4,9 @@
 Çalışmanın Ekran Görüntüsü Aşağıdaki Gibidir;
 
 ![Login Page](https://github.com/berfincinar/LoginRegisterPage-FrontEnd/blob/main/ekranGoruntuleri/LoginPage.html.png)
-#Login Page
+
+ **Login Page**
+
 ![Register Page](https://github.com/berfincinar/LoginRegisterPage-FrontEnd/blob/main/ekranGoruntuleri/registerPage.html.png)
-#Register Page
+
+**Register Page**
